@@ -1,6 +1,5 @@
 package dao;
 
-
 import model.Employee;
 import model.Product;
 
